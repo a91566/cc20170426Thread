@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ca_20170426异步回调", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ca_20170426异步回调2", "ca_20170426异步回调2\ca_20170426异步回调2.csproj", "{6E3CADA4-F167-46C5-83E1-719DAF412551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ca_20170504线程池", "ca_20170504线程池\ca_20170504线程池.csproj", "{3F645125-D2D3-4433-9A7F-2078185DC594}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6E3CADA4-F167-46C5-83E1-719DAF412551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E3CADA4-F167-46C5-83E1-719DAF412551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E3CADA4-F167-46C5-83E1-719DAF412551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F645125-D2D3-4433-9A7F-2078185DC594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F645125-D2D3-4433-9A7F-2078185DC594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F645125-D2D3-4433-9A7F-2078185DC594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F645125-D2D3-4433-9A7F-2078185DC594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
